@@ -6,11 +6,11 @@
 
 ## Gallery: 
   - ![layout front](https://github.com/Vlad-Vasinev/Nixie-Clock-hobby-/blob/main/1.jpg)
-  - [layout back](https://github.com/Vlad-Vasinev/Nixie-Clock-hobby-/blob/main/2.jpg)
-  - [IN-16](https://github.com/Vlad-Vasinev/Nixie-Clock-hobby-/blob/main/3.jpg)
-  - [IN-14](https://github.com/Vlad-Vasinev/Nixie-Clock-hobby-/blob/main/5.jpg)
-  - [used components](https://github.com/Vlad-Vasinev/Nixie-Clock-hobby-/blob/main/4.jpg)
-  - [working process](https://github.com/Vlad-Vasinev/Nixie-Clock-hobby-/blob/main/5.jpg)
-  - [preview](https://github.com/Vlad-Vasinev/Nixie-Clock-hobby-/blob/main/7.jpg)
-  - [result](https://github.com/Vlad-Vasinev/Nixie-Clock-hobby-/blob/main/8.jpg)
+  - ![layout back](https://github.com/Vlad-Vasinev/Nixie-Clock-hobby-/blob/main/2.jpg)
+  - ![IN-16](https://github.com/Vlad-Vasinev/Nixie-Clock-hobby-/blob/main/3.jpg)
+  - ![IN-14](https://github.com/Vlad-Vasinev/Nixie-Clock-hobby-/blob/main/5.jpg)
+  - ![used components](https://github.com/Vlad-Vasinev/Nixie-Clock-hobby-/blob/main/4.jpg)
+  - ![working process](https://github.com/Vlad-Vasinev/Nixie-Clock-hobby-/blob/main/5.jpg)
+  - ![preview](https://github.com/Vlad-Vasinev/Nixie-Clock-hobby-/blob/main/7.jpg)
+  - ![result](https://github.com/Vlad-Vasinev/Nixie-Clock-hobby-/blob/main/8.jpg)
 
