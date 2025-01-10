@@ -1,6 +1,6 @@
 # Nixie Clock(hobby) 🥰
 
-## Nixie Tube - is an electronic device used for displaying numerals or other information using glow discharge 💻
+## A Nixie Tube is an electronic device used for displaying numerals or other information using glow discharge. 💻
 
 ## This Nixie was made on IN-14 and IN-16:
 
