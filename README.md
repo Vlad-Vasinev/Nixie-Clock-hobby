@@ -15,8 +15,6 @@
   - ![IN-14](https://github.com/Vlad-Vasinev/Nixie-Clock-hobby-/blob/main/5.jpg)
 - used components
   - ![used components](https://github.com/Vlad-Vasinev/Nixie-Clock-hobby-/blob/main/4.jpg)
-- working process
-  - ![working process](https://github.com/Vlad-Vasinev/Nixie-Clock-hobby-/blob/main/5.jpg)
 - preview
   - ![preview](https://github.com/Vlad-Vasinev/Nixie-Clock-hobby-/blob/main/7.jpg)
 - result
