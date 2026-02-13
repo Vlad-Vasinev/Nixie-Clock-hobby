@@ -1,4 +1,5 @@
-# Nixie Clock(hobby) 🥰
+# Nixie Clock 🥰
+- [pdf-presentation](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/nixieClock_presentation.pdf)
 
 ## A Nixie Tube is an electronic device used for displaying numerals or other information using glow discharge. 💻
 
@@ -19,4 +20,5 @@
   - ![preview](https://github.com/Vlad-Vasinev/Nixie-Clock-hobby-/blob/main/7.jpg)
 - result
   - ![result](https://github.com/Vlad-Vasinev/Nixie-Clock-hobby-/blob/main/8.jpg)
+
 
